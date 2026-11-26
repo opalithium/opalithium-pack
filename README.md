@@ -1,2 +1,2 @@
-Resource pack of the DALBIT Minecraft server (sent to players when they join).
-Built by dalbit-server/publish_pack.py; do not edit by hand.
+Opalithium 서버 리소스팩 (접속할 때 받는 팩). opalithium_pack.zip 하나.
+dalbit-paper/publish_pack.py 가 만들어 올림 (손으로 고치지 않음).
